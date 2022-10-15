@@ -48,7 +48,7 @@ hr {
 }
 
 .prompt, .logos-prompt {
-  position:  absolute;
+  position:  fixed;
   bottom: 25px;
   right: 35px;
 }
